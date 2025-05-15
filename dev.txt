@@ -1,3 +1,2 @@
 Bonjour à tous 
-git branch nom pour créer une branche
-git checkout nom pour changé de branche
+
